@@ -1,0 +1,27 @@
+
+.images-box,
+.clearfix {
+	overflow : hidden;
+}
+
+/* Hides from IE-mac \*/
+* html .images-box,
+* html .clearfix {
+	height: 1%;
+}
+
+.images-box,
+.clearfix{
+	display: block;
+}
+/* End hide from IE-mac */
+
+
+div#main{
+	padding-right:16px;
+}
+
+div.images-box a.last-image{
+	margin-right:-8px;
+}
+
