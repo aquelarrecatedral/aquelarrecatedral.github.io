@@ -406,7 +406,7 @@ hr.separator {
 
 h2#page-title{
 	position:absolute;
-	top:64px;
+	top:56px;
 	left:0;
 	background:url(../assets/images/bg-title.png) repeat-x #885232;
 	background-size: auto 100%;
