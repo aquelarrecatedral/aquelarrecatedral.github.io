@@ -376,6 +376,7 @@ hr.separator {
 	padding:0;
 	margin:16px 0 0 0;
 	height:16px;
+	margin-top: 20px; 
 }
 
 #footer #credits{
@@ -395,18 +396,21 @@ hr.separator {
 
 #footer img{
 	display: inline-block;
+	margin-left: 30px;
+    	margin-top: 10px;
+    	width: 30%;
 }
 
 h2#page-title{
 	position:absolute;
 	top:64px;
 	left:0;
-	margin:0;
 	background:url(../assets/images/bg-title.png) repeat-x #885232;
 	background-size: auto 100%;
 	color:#F6EAB3;
 	padding:10px 30px 10px 48px;
 	letter-spacing:-1px;
+	
 }
 
 h3#page-subtitle{
