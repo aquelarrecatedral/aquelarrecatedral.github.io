@@ -378,7 +378,7 @@ hr.separator {
 	height:16px;
 	margin-top: 27px;
 	text-aling: center; 
-	margin-left: 230px; 
+	margin-left: auto; 
 	
 }
 
@@ -399,7 +399,7 @@ hr.separator {
 
 #footer img{
 	display: inline-block;
-	margin-left: 260px;
+	margin-left: auto;
     	margin-top: 15px;
     	width: 80%;
 }
